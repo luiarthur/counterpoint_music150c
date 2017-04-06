@@ -281,14 +281,25 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -298,21 +309,44 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>half</durationType>
-          </Rest>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -327,17 +361,31 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Rest>
+        <Chord>
           <track>1</track>
-          <durationType>quarter</durationType>
-          </Rest>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -349,26 +397,64 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
+        <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <track>1</track>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <track>1</track>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>1</track>
+            <Accidental>
+              <subtype>sharp</subtype>
+              <track>1</track>
+              </Accidental>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <track>1</track>
           <durationType>half</durationType>
-          </Rest>
+          <Note>
+            <track>1</track>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -608,10 +694,13 @@
             <digit>3</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <tick>5040</tick>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <onNote>0</onNote>
           <ticks>240</ticks>
@@ -624,7 +713,13 @@
             <digit>2</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <tick>5280</tick>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>480</ticks>
           <FiguredBassItem>
@@ -668,10 +763,13 @@
             <digit>5</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <tick>6480</tick>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <onNote>0</onNote>
           <ticks>240</ticks>
@@ -681,7 +779,16 @@
             <suffix>7</suffix>
             </FiguredBassItem>
           </FiguredBass>
-        <tick>6720</tick>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>480</ticks>
           <FiguredBassItem>
@@ -689,9 +796,13 @@
             <digit>6</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>480</ticks>
           <FiguredBassItem>
@@ -703,9 +814,13 @@
             <digit>5</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>240</ticks>
           <FiguredBassItem>
@@ -713,9 +828,13 @@
             <digit>4</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <tick>7920</tick>
         <FiguredBass>
           <onNote>0</onNote>
@@ -726,9 +845,13 @@
             </FiguredBassItem>
           </FiguredBass>
         <tick>8160</tick>
-        <Rest>
+        <Chord>
           <durationType>half</durationType>
-          </Rest>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
