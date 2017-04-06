@@ -151,21 +151,40 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>71</pitch>
+            <tpc>7</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>double</subtype>
           <span>1</span>
@@ -207,40 +226,78 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Rest>
+        <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <track>1</track>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <track>1</track>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <track>1</track>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <track>1</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <track>1</track>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <track>1</track>
-          <durationType>quarter</durationType>
-          </Rest>
+          <durationType>half</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="2" len="10/4">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -260,6 +317,58 @@
           <subtype>end</subtype>
           <span>1</span>
           </BarLine>
+        <tick>4320</tick>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>1</track>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <track>1</track>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <track>1</track>
+          <durationType>half</durationType>
+          </Rest>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -268,9 +377,6 @@
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
           </Clef>
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -333,9 +439,13 @@
             <digit>5</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>480</ticks>
           <FiguredBassItem>
@@ -347,9 +457,13 @@
             <digit>4</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>480</ticks>
           <FiguredBassItem>
@@ -361,12 +475,20 @@
             <prefix>4</prefix>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>half</durationType>
-          </Rest>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>double</subtype>
           <span>1</span>
@@ -461,9 +583,13 @@
             <digit>8</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
         <tick>4560</tick>
         <FiguredBass>
           <onNote>0</onNote>
@@ -507,9 +633,16 @@
             <suffix>7</suffix>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>480</ticks>
           <FiguredBassItem>
@@ -518,9 +651,16 @@
             <digit>7</digit>
             </FiguredBassItem>
           </FiguredBass>
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>52</pitch>
+            <tpc>6</tpc>
+            </Note>
+          </Chord>
         <FiguredBass>
           <ticks>240</ticks>
           <FiguredBassItem>

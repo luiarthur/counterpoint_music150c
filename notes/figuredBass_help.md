@@ -1,8 +1,8 @@
-- I
+- Diatonic Triad
   - no symbol underneath the note - triad, root in bass
   - `6`: triad, third in bass
   - `64`: triad, fifth in bass
-- VII
+- Seventh Chord
   - `7`: seventh chord, root in bass
   - `65`: seventh chord, third in bass
   - `43`: seventh chord, fifth in bass
