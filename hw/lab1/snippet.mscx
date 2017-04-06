@@ -331,20 +331,27 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>half</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <Accidental>
               <subtype>sharp</subtype>
               </Accidental>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <BarLine>
@@ -426,7 +433,7 @@
           </Chord>
         <Chord>
           <track>1</track>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <track>1</track>
             <pitch>62</pitch>
@@ -435,24 +442,11 @@
           </Chord>
         <Chord>
           <track>1</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>1</track>
-            <Accidental>
-              <subtype>sharp</subtype>
-              <track>1</track>
-              </Accidental>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>1</track>
           <durationType>half</durationType>
           <Note>
             <track>1</track>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -942,8 +936,12 @@
           <durationType>half</durationType>
           <Note>
             <track>5</track>
-            <pitch>44</pitch>
-            <tpc>22</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
