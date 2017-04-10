@@ -228,8 +228,12 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              <track>1</track>
+              </Accidental>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
