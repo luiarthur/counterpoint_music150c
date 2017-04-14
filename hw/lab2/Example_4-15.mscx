@@ -52,6 +52,10 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -207,12 +211,21 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="6" len="1/8">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <Rest>
+          <visible>0</visible>
+          <durationType>eighth</durationType>
+          </Rest>
         <BarLine>
           <subtype>double</subtype>
           <span>2</span>
           </BarLine>
         </Measure>
-      <Measure number="6" len="1/4">
+      <Measure number="7" len="1/4">
         <KeySig>
           <accidental>1</accidental>
           </KeySig>
@@ -229,7 +242,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
+      <Measure number="8">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -248,7 +261,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="9">
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -271,7 +284,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="9">
+      <Measure number="10">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -287,7 +300,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
+      <Measure number="11">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -303,7 +316,10 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="12">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -312,6 +328,14 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="13">
+        <stretch>5</stretch>
+        <Rest>
+          <visible>0</visible>
+          <durationType>measure</durationType>
+          <duration z="3" n="4"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
@@ -401,7 +425,13 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="6" len="1/4">
+      <Measure number="6" len="1/8">
+        <Rest>
+          <visible>0</visible>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="7" len="1/4">
         <KeySig>
           <accidental>1</accidental>
           </KeySig>
@@ -418,7 +448,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="7">
+      <Measure number="8">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -434,7 +464,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="8">
+      <Measure number="9">
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -457,7 +487,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="9">
+      <Measure number="10">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -473,7 +503,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="10">
+      <Measure number="11">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -489,7 +519,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="11">
+      <Measure number="12">
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -498,6 +528,13 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="13">
+        <Rest>
+          <visible>0</visible>
+          <durationType>measure</durationType>
+          <duration z="3" n="4"/>
+          </Rest>
         </Measure>
       </Staff>
     </Score>
