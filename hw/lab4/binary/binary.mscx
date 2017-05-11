@@ -56,8 +56,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -128,6 +126,10 @@
           <style>Title</style>
           <text>Binary</text>
           </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Arthur Lui</text>
+          </Text>
         </VBox>
       <Measure number="1">
         <TimeSig>
@@ -197,9 +199,6 @@
           </Chord>
         </Measure>
       <Measure number="4">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -260,6 +259,9 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -360,9 +362,6 @@
           </Chord>
         </Measure>
       <Measure number="9">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <endSpanner id="3"/>
         <Volta id="4">
           <endHook>1</endHook>
@@ -408,10 +407,6 @@
         </Measure>
       <Measure number="10">
         <startRepeat/>
-        <BarLine>
-          <subtype>start-repeat</subtype>
-          <span>2</span>
-          </BarLine>
         <endSpanner id="4"/>
         <Chord>
           <durationType>quarter</durationType>
@@ -476,6 +471,9 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -539,9 +537,6 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -671,6 +666,9 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -694,9 +692,6 @@
           </Chord>
         </Measure>
       <Measure number="19">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -898,10 +893,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="2">
