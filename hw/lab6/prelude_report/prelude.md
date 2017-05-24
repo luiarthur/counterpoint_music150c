@@ -5,14 +5,6 @@ date: "\\today"
 geometry: margin=1in
 fontsize: 12pt
 
-# Uncomment if using natbib:
-
-# bibliography: BIB.bib
-# bibliographystyle: plain 
-
-# This is how you use bibtex refs: @nameOfRef
-# see: http://www.mdlerch.com/tutorial-for-pandoc-citations-markdown-to-latex.html
-
 ---
 
 I have based most of my comments on the article by Moroney ^3^.
